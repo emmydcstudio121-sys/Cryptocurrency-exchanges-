@@ -6,9 +6,6 @@ Only Version 2 of Jackrabbit Relay is supported. It superceeds Version 1 on all 
 
 ## Reporting a Vulnerability
 
-If you suspect a vulnerability, please file an issue,
-
-https://github.com/rapmd73/JackrabbitRelay/issues
 
 Please provide as much information as possible, including how to reproduce the vulnerability. Being
 able to reproduce the vulnerability is critical to resolving it quickly, please take your time in
